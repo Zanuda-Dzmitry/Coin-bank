@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+
+  a {
+    text-decoration: none;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  button,
+  a {
+    cursor: pointer;
+  }
+}
