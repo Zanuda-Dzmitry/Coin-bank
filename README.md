@@ -27,4 +27,4 @@ Navigo.
 библиотека Chart.js
 В приложении также присутствуют e2e-тесты Cypress
 
- [link] (frontend/README.md)
+ [link text](frontend/README.md)
